@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrizzCodes
-- 👀 I’m interested in Game Dev, Software Dev and YouTuhbe Gaming
+- 👀 I’m interested in Game Dev, Software Dev and YouTube Gaming
 - 🌱 I’m currently learning C# and Video editing 
 - 📫 How to reach me on Discord: frizzvibes
 
