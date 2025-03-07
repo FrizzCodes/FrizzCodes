@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrizzCodes
-- 👀 I’m interested in Game Dev, Software Dev and YouTube Gaming
-- 🌱 I’m currently learning C# and Video editing 
-- 📫 How to reach me on Discord: frizzvibes
+- 👀 I’m interested in Game Dev, Software Dev and Animation
+- 🌱 I’m currently working on a steam release
+- 📫 How to reach me on Discord: frizzdev
 
 <!---
 FrizzCodes/FrizzCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
